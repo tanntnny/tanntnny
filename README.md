@@ -1,2 +1,2 @@
 ## Peraga Puangtong
-** Chulalongkorn University: International School of Engineering **
+* Chulalongkorn University: International School of Engineering *
